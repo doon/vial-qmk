@@ -1,7 +1,4 @@
 {
-  "name": "Acheron Project Elongate",
-  "vendorId": "0x4150",
-  "productId": "0x454D",
   "matrix": {
     "rows": 5,
     "cols": 15
